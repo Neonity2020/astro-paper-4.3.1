@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://neomatrix.netlify.app/", // replace this with your deployed domain
   author: "Sat Naing",
   profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "My CyberSpace built with Astro 4.13, Astro Paper 4.3.1 .",
   title: "NeoMatrix",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
